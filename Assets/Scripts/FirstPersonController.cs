@@ -33,7 +33,10 @@ public class FirstPersonController : MonoBehaviour {
 		transform.Rotate(Vector3.up * Input.GetAxis("Mouse X") * mouseSensitivityX);
 		verticalLookRotation += Input.GetAxis("Mouse Y") * mouseSensitivityY;
 		verticalLookRotation = Mathf.Clamp(verticalLookRotation,-60,60);
-		cameraTransform.localEulerAngles = Vector3.left * verticalLookRotation;
+        if (cameraTransform != null)
+        {
+            cameraTransform.localEulerAngles = Vector3.left * verticalLookRotation;
+        }
 		
 		// Calculate movement:
 		float inputX = Input.GetAxisRaw("Horizontal");
