@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 9a815d6ef5e635241b1d78c4ff1b5071
+timeCreated: 1513196593
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: a0da2746-8bf6-4665-a419-83d14a95463a
+    100002: a3934e65-5ad1-45c6-8a42-70e4134663f4
+    100004: a49e01f3-6e12-4ed0-b4be-029ad48f465d
+    100006: a5205772-adf6-49c3-8f40-8d14335f9e77
+    100008: a69d656a-baa2-4486-9403-5414b34fff8f
+    100010: a6d4733f-4689-48ec-b615-1051a084689e
+    100012: a8a6353d-2fd0-4911-94fa-f6793cc723ea
+    100014: a8faa368-525c-47d0-84e6-a7d45cfb3db9
+    100016: a9843313-2165-4b08-82a7-77bb692a8d4e
+    100018: aaa690d6-f2c5-4144-9735-814a78bc0e36
+    100020: ab9bec0d-55a5-4dc5-8043-9d9e57876435
+    100022: ada2cb29-94ce-427b-9b87-7f6f5f2cd39e
+    100024: adbc5b4f-317c-44fe-b308-f16c93b9b682
+    100026: b33542c4-648e-446a-b90f-085097c7cc33
+    100028: b4da19d9-157f-4fc8-a4b4-836682ab4862
+    100030: ba1d416a-5650-4a12-bbba-a789539cd667
+    100032: d529fef7-5b5d-44b6-82df-5b69ef6f9009
+    100034: d6f0d7a4-c18f-4fae-ae1a-5c53227bc9b3
+    100036: e13792b6-a130-4b44-92e3-1a688f019fc0
+    100038: f5e37fea-33da-43a2-8597-fe08264ee166
+    100040: //RootNode
+    100042: View-Front
+    100044: View-Perspective
+    100046: View-Right
+    100048: View-Top
+    400000: a0da2746-8bf6-4665-a419-83d14a95463a
+    400002: a3934e65-5ad1-45c6-8a42-70e4134663f4
+    400004: a49e01f3-6e12-4ed0-b4be-029ad48f465d
+    400006: a5205772-adf6-49c3-8f40-8d14335f9e77
+    400008: a69d656a-baa2-4486-9403-5414b34fff8f
+    400010: a6d4733f-4689-48ec-b615-1051a084689e
+    400012: a8a6353d-2fd0-4911-94fa-f6793cc723ea
+    400014: a8faa368-525c-47d0-84e6-a7d45cfb3db9
+    400016: a9843313-2165-4b08-82a7-77bb692a8d4e
+    400018: aaa690d6-f2c5-4144-9735-814a78bc0e36
+    400020: ab9bec0d-55a5-4dc5-8043-9d9e57876435
+    400022: ada2cb29-94ce-427b-9b87-7f6f5f2cd39e
+    400024: adbc5b4f-317c-44fe-b308-f16c93b9b682
+    400026: b33542c4-648e-446a-b90f-085097c7cc33
+    400028: b4da19d9-157f-4fc8-a4b4-836682ab4862
+    400030: ba1d416a-5650-4a12-bbba-a789539cd667
+    400032: d529fef7-5b5d-44b6-82df-5b69ef6f9009
+    400034: d6f0d7a4-c18f-4fae-ae1a-5c53227bc9b3
+    400036: e13792b6-a130-4b44-92e3-1a688f019fc0
+    400038: f5e37fea-33da-43a2-8597-fe08264ee166
+    400040: //RootNode
+    400042: View-Front
+    400044: View-Perspective
+    400046: View-Right
+    400048: View-Top
+    2300000: a0da2746-8bf6-4665-a419-83d14a95463a
+    2300002: a3934e65-5ad1-45c6-8a42-70e4134663f4
+    2300004: a49e01f3-6e12-4ed0-b4be-029ad48f465d
+    2300006: a5205772-adf6-49c3-8f40-8d14335f9e77
+    2300008: a69d656a-baa2-4486-9403-5414b34fff8f
+    2300010: a6d4733f-4689-48ec-b615-1051a084689e
+    2300012: a8a6353d-2fd0-4911-94fa-f6793cc723ea
+    2300014: a8faa368-525c-47d0-84e6-a7d45cfb3db9
+    2300016: a9843313-2165-4b08-82a7-77bb692a8d4e
+    2300018: aaa690d6-f2c5-4144-9735-814a78bc0e36
+    2300020: ab9bec0d-55a5-4dc5-8043-9d9e57876435
+    2300022: ada2cb29-94ce-427b-9b87-7f6f5f2cd39e
+    2300024: adbc5b4f-317c-44fe-b308-f16c93b9b682
+    2300026: b33542c4-648e-446a-b90f-085097c7cc33
+    2300028: b4da19d9-157f-4fc8-a4b4-836682ab4862
+    2300030: ba1d416a-5650-4a12-bbba-a789539cd667
+    2300032: d529fef7-5b5d-44b6-82df-5b69ef6f9009
+    2300034: d6f0d7a4-c18f-4fae-ae1a-5c53227bc9b3
+    2300036: e13792b6-a130-4b44-92e3-1a688f019fc0
+    2300038: f5e37fea-33da-43a2-8597-fe08264ee166
+    3300000: a0da2746-8bf6-4665-a419-83d14a95463a
+    3300002: a3934e65-5ad1-45c6-8a42-70e4134663f4
+    3300004: a49e01f3-6e12-4ed0-b4be-029ad48f465d
+    3300006: a5205772-adf6-49c3-8f40-8d14335f9e77
+    3300008: a69d656a-baa2-4486-9403-5414b34fff8f
+    3300010: a6d4733f-4689-48ec-b615-1051a084689e
+    3300012: a8a6353d-2fd0-4911-94fa-f6793cc723ea
+    3300014: a8faa368-525c-47d0-84e6-a7d45cfb3db9
+    3300016: a9843313-2165-4b08-82a7-77bb692a8d4e
+    3300018: aaa690d6-f2c5-4144-9735-814a78bc0e36
+    3300020: ab9bec0d-55a5-4dc5-8043-9d9e57876435
+    3300022: ada2cb29-94ce-427b-9b87-7f6f5f2cd39e
+    3300024: adbc5b4f-317c-44fe-b308-f16c93b9b682
+    3300026: b33542c4-648e-446a-b90f-085097c7cc33
+    3300028: b4da19d9-157f-4fc8-a4b4-836682ab4862
+    3300030: ba1d416a-5650-4a12-bbba-a789539cd667
+    3300032: d529fef7-5b5d-44b6-82df-5b69ef6f9009
+    3300034: d6f0d7a4-c18f-4fae-ae1a-5c53227bc9b3
+    3300036: e13792b6-a130-4b44-92e3-1a688f019fc0
+    3300038: f5e37fea-33da-43a2-8597-fe08264ee166
+    4300000: a8a6353d-2fd0-4911-94fa-f6793cc723ea
+    4300002: a5205772-adf6-49c3-8f40-8d14335f9e77
+    4300004: aaa690d6-f2c5-4144-9735-814a78bc0e36
+    4300006: e13792b6-a130-4b44-92e3-1a688f019fc0
+    4300008: a3934e65-5ad1-45c6-8a42-70e4134663f4
+    4300010: ada2cb29-94ce-427b-9b87-7f6f5f2cd39e
+    4300012: b4da19d9-157f-4fc8-a4b4-836682ab4862
+    4300014: a9843313-2165-4b08-82a7-77bb692a8d4e
+    4300016: a8faa368-525c-47d0-84e6-a7d45cfb3db9
+    4300018: ab9bec0d-55a5-4dc5-8043-9d9e57876435
+    4300020: a6d4733f-4689-48ec-b615-1051a084689e
+    4300022: d6f0d7a4-c18f-4fae-ae1a-5c53227bc9b3
+    4300024: f5e37fea-33da-43a2-8597-fe08264ee166
+    4300026: a0da2746-8bf6-4665-a419-83d14a95463a
+    4300028: b33542c4-648e-446a-b90f-085097c7cc33
+    4300030: d529fef7-5b5d-44b6-82df-5b69ef6f9009
+    4300032: adbc5b4f-317c-44fe-b308-f16c93b9b682
+    4300034: ba1d416a-5650-4a12-bbba-a789539cd667
+    4300036: a49e01f3-6e12-4ed0-b4be-029ad48f465d
+    4300038: a69d656a-baa2-4486-9403-5414b34fff8f
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
